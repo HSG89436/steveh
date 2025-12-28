@@ -1,0 +1,5 @@
+{
+  "name": "PinFlow AI",
+  "description": "Autonomous Pinterest Pin Generator & Publishing Engine using Gemini 2.5 Flash and Pro models.",
+  "requestFramePermissions": []
+}
